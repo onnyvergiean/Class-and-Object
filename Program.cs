@@ -14,8 +14,11 @@ namespace TugasClassDanObject
 
 
             taxi.TaxiInfo();
+            Console.WriteLine("\n");
             taxi.PickUpPassenger();
             taxi.DropOffPassenger();
+
+            Console.ReadKey();
         }
     }
 }

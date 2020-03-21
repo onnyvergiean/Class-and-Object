@@ -1,0 +1,13 @@
+I:\AMIKOM\sem 2\Pemrograman\TugasClassDanObject\TugasClassDanObject\bin\Debug\netcoreapp3.1\TugasClassDanObject.exe
+I:\AMIKOM\sem 2\Pemrograman\TugasClassDanObject\TugasClassDanObject\bin\Debug\netcoreapp3.1\TugasClassDanObject.deps.json
+I:\AMIKOM\sem 2\Pemrograman\TugasClassDanObject\TugasClassDanObject\bin\Debug\netcoreapp3.1\TugasClassDanObject.runtimeconfig.json
+I:\AMIKOM\sem 2\Pemrograman\TugasClassDanObject\TugasClassDanObject\bin\Debug\netcoreapp3.1\TugasClassDanObject.runtimeconfig.dev.json
+I:\AMIKOM\sem 2\Pemrograman\TugasClassDanObject\TugasClassDanObject\bin\Debug\netcoreapp3.1\TugasClassDanObject.dll
+I:\AMIKOM\sem 2\Pemrograman\TugasClassDanObject\TugasClassDanObject\bin\Debug\netcoreapp3.1\TugasClassDanObject.pdb
+I:\AMIKOM\sem 2\Pemrograman\TugasClassDanObject\TugasClassDanObject\obj\Debug\netcoreapp3.1\TugasClassDanObject.csprojAssemblyReference.cache
+I:\AMIKOM\sem 2\Pemrograman\TugasClassDanObject\TugasClassDanObject\obj\Debug\netcoreapp3.1\TugasClassDanObject.csproj.CoreCompileInputs.cache
+I:\AMIKOM\sem 2\Pemrograman\TugasClassDanObject\TugasClassDanObject\obj\Debug\netcoreapp3.1\TugasClassDanObject.AssemblyInfoInputs.cache
+I:\AMIKOM\sem 2\Pemrograman\TugasClassDanObject\TugasClassDanObject\obj\Debug\netcoreapp3.1\TugasClassDanObject.AssemblyInfo.cs
+I:\AMIKOM\sem 2\Pemrograman\TugasClassDanObject\TugasClassDanObject\obj\Debug\netcoreapp3.1\TugasClassDanObject.dll
+I:\AMIKOM\sem 2\Pemrograman\TugasClassDanObject\TugasClassDanObject\obj\Debug\netcoreapp3.1\TugasClassDanObject.pdb
+I:\AMIKOM\sem 2\Pemrograman\TugasClassDanObject\TugasClassDanObject\obj\Debug\netcoreapp3.1\TugasClassDanObject.genruntimeconfig.cache
