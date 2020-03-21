@@ -10,7 +10,7 @@ namespace TugasClassDanObject
 
             taxi.DriverName = "Onny";
             taxi.OnDuty = true;
-            taxi.numPassenger = 10;
+            taxi.NumPassenger = 10;
 
 
             taxi.TaxiInfo();
