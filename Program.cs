@@ -6,7 +6,7 @@ namespace TugasClassDanObject
     {
         static void Main(string[] args)
         {
-            
+            Taxi taxi = new Taxi();
         }
     }
 }
